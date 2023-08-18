@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter development**
 
-- 🌱 I’m currently learning **FastAPI, Golang**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on **Github**
 
